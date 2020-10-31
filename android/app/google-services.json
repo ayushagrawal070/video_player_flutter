@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "558296203795",
+    "firebase_url": "https://authpract-9631e.firebaseio.com",
+    "project_id": "authpract-9631e",
+    "storage_bucket": "authpract-9631e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558296203795:android:22732c637330b9d715f5e6",
+        "android_client_info": {
+          "package_name": "com.example.auth_practice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558296203795-no9mca8ndtcgu9kqfokg46nmlvsse3lq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAty4qMnAQMcQOtjGHbBDc7xJYXA2bK3Rw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558296203795-no9mca8ndtcgu9kqfokg46nmlvsse3lq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
